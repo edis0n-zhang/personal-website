@@ -1,4 +1,6 @@
 ---
-title: Hi I'm Edison!
+title: Home
 ---
-I'm a second year computer science major at the University of California, Santa Barbara.
+Hi I'm Edison, I'm currently studying computer science at UCSB. I made this [website](Personal%20Website.md) to be my own little online world. Feel free to read more about my [[/projects]], [[/experiences]], [[/thoughts]], or just browse.
+
+Here's a [guide](Navigation%20Guide) on how to navigate my page, I hope you enjoy your stay!
