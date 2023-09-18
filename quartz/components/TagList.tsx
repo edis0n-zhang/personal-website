@@ -42,6 +42,7 @@ TagList.css = `
 }
 
 a.tag-link {
+  opacity: 0;
   border-radius: 8px;
   background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
