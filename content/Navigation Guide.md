@@ -1,5 +1,6 @@
 ---
 title: Navigation Guide
+date: 2023-09-17
 ---
 My website is a collection of individual pages I have created. They are organized into folders such as [[/notes]], [[/projects]], [[/thoughts]], and [[/experiences]] that you can browse using the explorer on the right. 
 
