@@ -3,9 +3,9 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Edison Zhang",
+    pageTitle: "edisonzhang.me",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
@@ -35,9 +35,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: ":#2e3440",
-          secondary: "#5d769b",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#84a59d",
+          tertiary: "#5d769b",
+          highlight: "rgba(65, 70, 86, .15)",
         },
       },
     },
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({maxDepth: 4}),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),

@@ -21,12 +21,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({limit: 5})),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.RecentNotes({ title: "New Notes" }),
+    Component.DesktopOnly(Component.Explorer({
+      title: "explorer",
+      folderDefaultState: "collapsed",
+    })),
+    Component.Graph(), 
+    Component.Backlinks(),
   ],
 }
 

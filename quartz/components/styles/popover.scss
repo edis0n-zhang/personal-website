@@ -15,8 +15,8 @@
 }
 
 .popover {
-  z-index: 999;
   position: absolute;
+  z-index: 999;
   overflow: visible;
   padding: 1rem;
 
@@ -39,6 +39,7 @@
 
   h1 {
     font-size: 1.5rem;
+    color: var(--darkgray);
   }
 
   visibility: hidden;

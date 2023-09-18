@@ -1,3 +1,10 @@
 ---
 title: Navigation Guide
 ---
+My website is a collection of individual pages I have created. They are organized into folders such as [[/notes]], [[/projects]], [[/thoughts]], and [[/experiences]] that you can browse using the explorer on the right. 
+
+Each individual page also contains links to related pages, for instance the one you may have clicked to reach this page from the home page. On the right you can see a graph detailing the links the page contains as well as backlinks, links that lead to this page. 
+
+If you are looking for a specific page, you can use the search bar on the left, you can search by both content and page title.
+
+Happy browsing!
