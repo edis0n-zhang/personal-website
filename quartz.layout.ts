@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.Explorer({
-      title: "explorer",
+      title: "Explorer",
       folderDefaultState: "collapsed",
     })),
     Component.Graph(), 
