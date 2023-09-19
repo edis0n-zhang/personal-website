@@ -27,6 +27,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       title: "Explorer",
       folderDefaultState: "collapsed",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["home"])
+        return !omit.has(node.name.toLowerCase())
+      },
     })),
     Component.Graph(), 
     Component.Backlinks(),

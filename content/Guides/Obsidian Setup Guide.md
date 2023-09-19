@@ -14,15 +14,29 @@ Obsidian at its core is a markdown editor. Yup, all it does is edit markdown fil
 
 *To read about this philosophy more click [here](https://stephango.com/file-over-app)*
 
-One day Obsidian **will** become defunct. When this happens your files will still exist, they are plain files stored locally that anyone can access and open. I would like to pose you question, what would happen to your files if a service like Google Docs or Notion disappears? 
+One day Obsidian **will** become defunct. When this happens your files will still exist, they are plain files stored locally that anyone can access and open. I would like to pose you question, what would happen to your files if a service like Google Docs or Notion disappears?
 # Setup
 Download and install Obsidian [here](https://obsidian.md/). 
 
 ## Organization
-One of Obsidian's biggest selling points is its organizational capability. You can easily create links between your notes using the following syntax `[[linktofile]]` . 
+One of Obsidian's biggest selling points is its organizational capability. 
 
-**TO FINISH Daily notes, To Do Lists, Graphs**
+**Here are some of the features you may want to utilize:**
+- **Links**: Obsidian allows you to create links between your notes, helping you connect ideas.
+	 - You can create links using the following syntax `[[linktofile]]` . 
+	 - Some applications include the [Zettelkasten Method](https://zettelkasten.de/posts/overview/).
+	- These links can be kept track of using Obsidian's graph feature. It's very pretty!
+	- Every note also has backlinks, helping you know what it helps define.
+- **Daily Notes**: Obsidian allows the creation of daily notes, this is useful for keeping track of daily tasks or just writing down miscellaneous things that you do during the day. 
+	- I highly recommend using the [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) plugin to keep track  of your daily notes.
+- **Folders**: Just like any other file management system, it's a great idea to use folders to organize your ideas together.
+- **[Dataview](https://github.com/blacksmithgu/obsidian-dataview)**: A plugin that allows query your notes like a relational database by their properties you set in the frontmatter. More in the plugins section.
+- Tags: You can tag and search your notes by tag.
+	- Use the syntax `#tag`
 
+In the end, I highly recommend experimenting with different organizational formats until you figure out what's best for **YOU**. You don't (and shouldn't) have to make use of every fancy feature just because someone online tells you to, often you may find you don't need the extra fluff. Remember that your organizational system should work **for** you, not **against**. 
+
+What is important is you are aware of the tools that are available and that Obsidian provides the features and flexibility needed for your workflow.
 ## Themes
 Themes are community made themes (duh) that help you tune the appearance of your Obsidian to your liking. These can be further tuned with the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin or your own css.
 
