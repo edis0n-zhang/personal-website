@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.Explorer({
+    Component.DesktopOnly(Component.Explorer({
       title: "Explorer",
       folderDefaultState: "collapsed",
       filterFn: (node) => {
@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
         const omit = new Set(["home"])
         return !omit.has(node.name.toLowerCase())
       },
-    }),
+    })),
     Component.DesktopOnly(Component.Graph()), 
     Component.Backlinks(),
   ],
