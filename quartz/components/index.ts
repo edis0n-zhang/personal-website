@@ -5,8 +5,8 @@ import NotFound from "./pages/404"
 import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
 import Head from "./Head"
+import OldPageTitle from "./OldPageTitle"
 import PageTitle from "./PageTitle"
-import MobilePageTitle from "./MobilePageTitle"
 import ContentMeta from "./ContentMeta"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
@@ -28,7 +28,7 @@ export {
   Darkmode,
   Head,
   PageTitle,
-  MobilePageTitle,
+  OldPageTitle,
   ContentMeta,
   Spacer,
   TableOfContents,
