@@ -13,7 +13,7 @@ function OldPageTitle({ fileData, cfg }: QuartzComponentProps) {
 
 OldPageTitle.css = `
 .old-page-title {
-  font-size: 1.75rem;
+  font-size: 1.9rem;
   margin: 0;
 }
 `
