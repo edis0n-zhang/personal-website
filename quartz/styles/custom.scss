@@ -1,10 +1,11 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-body[data-slug="index"] img {
-  margin-bottom: 3em;
-  filter: invert(0%);
-  opacity: 0.85;
+body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%
 }
 
 [saved-theme="dark"] body[data-slug="index"] img[src="./banner.svg"] {
