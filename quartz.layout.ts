@@ -18,7 +18,6 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList()],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.MobilePageTitle()),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
@@ -26,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       title: "Explorer",
       folderDefaultState: "collapsed",
       filterFn: (node) => {
@@ -34,8 +33,8 @@ export const defaultContentPageLayout: PageLayout = {
         const omit = new Set(["home"])
         return !omit.has(node.name.toLowerCase())
       },
-    })),
-    Component.Graph(), 
+    }),
+    Component.DesktopOnly(Component.Graph()), 
     Component.Backlinks(),
   ],
 }
