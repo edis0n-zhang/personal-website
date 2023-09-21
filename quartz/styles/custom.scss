@@ -42,7 +42,7 @@ body img {
 
   @media all and (max-width: $fullPageWidth) {
     // display: flex !important;
-    padding-top: 2rem !important;
+    padding-top: 0 !important;
     padding-bottom: 0 !important;
     grid-template-columns: 1fr  max-content max-content;
     grid-template-rows: min-content;
