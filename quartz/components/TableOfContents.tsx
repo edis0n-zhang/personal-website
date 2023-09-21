@@ -41,7 +41,7 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
         <ul class="overflow">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-              <a class="internal" href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
             </li>
