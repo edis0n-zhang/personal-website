@@ -5,7 +5,7 @@ function PageTitle({ fileData, cfg }: QuartzComponentProps) {
   const title = cfg?.pageTitle ?? "Untitled Quartz"
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h1 class="old-page-title">
+    <h1 class="page-title">
         <a class= "internal" href={baseDir}>{title}</a>
     </h1>
   )

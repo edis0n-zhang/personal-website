@@ -15,7 +15,7 @@ body img {
   grid-template-rows: min-content min-content min-content min-content;
   align-items: center;
 
-  .old-page-title {
+  .page-title {
     grid-area: 1 / 1 / 2 / 3;
   }
 
@@ -43,7 +43,7 @@ body img {
     grid-template-rows: min-content min-content min-content min-content;
     align-items: center;
   
-    .old-page-title {
+    .page-title {
       grid-area: 1 / 1 / 2 / 3;
     }
   
