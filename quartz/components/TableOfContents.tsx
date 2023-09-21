@@ -20,8 +20,8 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
 
   return (
     <div class={`toc ${displayClass}`}>
-      <button id="toc">
-      <h3>Table of Contents</h3>
+      <button type="button" id="toc">
+        <h3>Table of Contents</h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -41,7 +41,7 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
         <ul class="overflow">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-              <a class="internal" href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
             </li>
