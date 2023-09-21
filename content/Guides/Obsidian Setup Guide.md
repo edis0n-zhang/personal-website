@@ -81,7 +81,7 @@ In the end, I highly recommend experimenting with different organizational forma
 
 What is important is you are aware of the tools that are available and that Obsidian provides the features and flexibility needed for your workflow.
 # Themes
-Themes are community made themes (duh) that help you tune the appearance of your Obsidian to your liking. These can be further tuned with the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin or your own css.
+Themes are community made themes (duh) that help you tune the appearance of your Obsidian to your liking. These can be further tuned with the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin or your own css snippets.
 
 **Some of my favorites:** \
 [Minimal](https://github.com/pages-themes/minimal): There is a minimal themes settings plugin that goes with this theme. \
