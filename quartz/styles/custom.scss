@@ -46,6 +46,12 @@ body[data-slug="index"] img {
   @media all and (max-width: $fullPageWidth) {
     display: flex !important;
   }
+
+  @media all and (max-width: $mobileBreakpoint) {
+    .page-title {
+      font-size: 1rem;
+    }
+  }
 }
 
 hr {
@@ -58,7 +64,6 @@ hr {
   width: 40%;
   border-color: var(--gray);
   &:after {
-    content: "* * *";
     display: inline-block;
     margin: -1em 0 0.5em;
     font-size: 1.5em;
@@ -78,3 +83,4 @@ pre.poetry {
 .content-meta {
   font-family: biro_script_standardRgus, var(--bodyFont);
 }
+
