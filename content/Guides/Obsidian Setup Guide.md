@@ -17,14 +17,14 @@ Obsidian at its core is a markdown editor. Yup, all it does is edit markdown fil
 
 One day Obsidian **will** become defunct. When this happens your files will still exist, they are plain markdown files stored locally that anyone can access and open. I would like to pose you question, what would happen to your files if a service like Google Docs or Notion disappears?
 # Editor
-Everything in Obsidian starts and ends with the editor... so how do you use it? Like I stated before, Obsidian is at its core a markdown editor. So, what's markdown?
+Obsidian is at its core a markdown editor. You may be wondering "what's markdown?"
 
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). 
 > -- John Gruber, Creator of Markdown
 
 *To read more about markdown click [here](https://daringfireball.net/projects/markdown/).*
 
-In short, you can use Obsidian as a simple text editor and Markdown provides html support and you can use certain shortcuts to stylize it. 
+In short, you can use Obsidian as a simple text editor and Markdown provides html support and you can use certain shortcuts to stylize it. Everything in Obsidian starts and ends with the editor.
 
 **Here's some tips to get you started:** 
 
@@ -51,7 +51,7 @@ In short, you can use Obsidian as a simple text editor and Markdown provides htm
 	- Link to a web image like so `![Image Title](https://imagelink.com)`
 - Create tables using the Markdown Table Syntax
 	- Install a community plugin like Advanced Table Editor or Markdown Table Editor, thank me later.
-- Callout Blocks can be created to segment and stylize your information. They can be made into dropdown menus and configured with different icons, see more [here](https://help.obsidian.md/Editing+and+formatting/Callouts).
+- Callout Blocks can be created to segment and stylize your information. They can be made into dropdown menus and configured with different icons, see more at [Obsidian's Official Article](https://help.obsidian.md/Editing+and+formatting/Callouts).
 
 > [!example]- Example Callout Block!
 > Here's an example sentence, any content can be placed in callout blocks!
@@ -87,6 +87,91 @@ Themes are community made themes (duh) that help you tune the appearance of your
 [Minimal](https://github.com/pages-themes/minimal): There is a minimal themes settings plugin that goes with this theme. \
 [Nord](https://github.com/insanum/obsidian_nord) \
 [Prism](https://github.com/damiankorcz/Prism-Theme) 
+
+## My Setup
+
+I highly recommend you play with Obsidian's styling options and tailor it to your own preferences however to start, feel free to try my Obsidian styling.
+
+![[My Obsidian.png]]
+
+<center>My Obsidian</center>
+
+Currently I use the Minimal with Dark Mode Nord. You can set this in the Minimal Theme Settings and setting the Dark mode theme to Nord.
+
+These are my style settings for sanctum, prism, and minimal. If you want to use these settings navigate to your style settings plugin in your settings and hit import.
+
+```
+{
+  "sanctum@@color-accent-rgb-d": "83, 112, 159",
+  "sanctum@@color-accent-rgb-l": "99, 149, 156",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@table-cell-border": true,
+  "sanctum@@table-row-border": true,
+  "sanctum@@table-column-border": true,
+  "sanctum@@table-alternate-row": false,
+  "sanctum@@table-alternate-column": false,
+  "sanctum@@table-single-rows": false,
+  "sanctum@@table-nums": false,
+  "sanctum@@table-tabular-figures": false,
+  "sanctum@@table-sticky-height": 600,
+  "sanctum@@table-sticky-headers": false,
+  "sanctum@@code-border": false,
+  "sanctum@@code-lines": false,
+  "sanctum@@syntax-highlighting": "nord",
+  "sanctum@@active-line-accent": "transparent",
+  "sanctum@@stendig": false,
+  "sanctum@@calendar-dot@@dark": "#70B1FF",
+  "sanctum@@calendar-dot-hover@@light": "#23505E",
+  "sanctum@@calendar-dot-hover@@dark": "#4D718A",
+  "sanctum@@link-color@@dark": "#5A6F9B",
+  "sanctum@@clean-embeds": false,
+  "obsidian-prism-theme@@highlight-text-accent-custom-dt": "#FFFFFF",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-custom-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-custom-dt",
+  "obsidian-prism-theme@@color-accent-base-dt": "#535A4E",
+  "obsidian-prism-theme@@color-accent-tint-dt": "#B3BDB3",
+  "obsidian-prism-theme@@color-accent-text-dt": "#A7B1A5",
+  "obsidian-prism-theme@@pt-disable-callout-styling": false,
+  "sanctum@@font-editor-theme": "\"\"",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "sanctum@@hide-vault-title": false,
+  "obsidian-prism-theme@@pt-file-explorer-folder-icon": false,
+  "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
+  "obsidian-prism-theme@@pt-custom-vault-banner": false,
+  "obsidian-prism-theme@@custom-vault-banner-horizontal-align": "pt-custom-vault-banner-justify-content-center",
+  "obsidian-prism-theme@@file-explorer-left-margin": 0,
+  "obsidian-prism-theme@@pt-pdf-dark-theme": false,
+  "minimal-style@@inline-title-size": "2em",
+  "minimal-style@@h1-size": "2.25em",
+  "minimal-style@@h2-size": "2em",
+  "minimal-style@@h3-size": "1.75em",
+  "minimal-style@@h4-size": "1.5em",
+  "minimal-style@@h5-size": "1.25em",
+  "minimal-style@@h6-size": "1em",
+  "minimal-style@@h5-variant": "normal",
+  "minimal-style@@h6-variant": "normal",
+  "minimal-style@@h4-variant": "normal",
+  "minimal-style@@h4-weight": 600,
+  "minimal-style@@h5-weight": 600,
+  "minimal-style@@h6-weight": 600,
+  "minimal-style@@h3-weight": 600,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "pointer",
+  "minimal-style@@bg1@@dark": "#232731",
+  "minimal-style@@bg2@@dark": "#323846",
+  "minimal-style@@ax1@@dark": "#8CBCBB",
+  "minimal-style@@heading-spacing": "0em",
+  "minimal-style@@h2-l": true,
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h3-l": true,
+  "minimal-style@@h4-l": true,
+  "minimal-style@@h5-l": true,
+  "minimal-style@@h6-l": true,
+  "minimal-style@@metadata-add-property-off": true,
+  "minimal-style@@metadata-heading-off": true,
+  "minimal-style@@metadata-dividers": false
+}
+```
 # Plugins
 Plugins are community made extensions that can add additional functionality not included in base Obsidian. 
 
