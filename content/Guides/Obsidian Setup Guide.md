@@ -101,7 +101,7 @@ Currently I use the Minimal with Dark Mode Nord. You can set this in the Minimal
 These are my style settings for sanctum, prism, and minimal. If you want to use these settings copy the settings, navigate to your style settings plugin in your settings, open the import menu, and paste in the my settings.
 
 > [!info]- My Style Settings
-> ```
+> ```text
 > {
 >  "sanctum@@color-accent-rgb-d": "83, 112, 159",
 >  "sanctum@@color-accent-rgb-l": "99, 149, 156",
