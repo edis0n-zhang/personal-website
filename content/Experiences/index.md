@@ -1,4 +1,4 @@
 ---
-title: Experiences Index
+title: Experiences
 ---
 A collection of my experiences.

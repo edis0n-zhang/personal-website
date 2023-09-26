@@ -1,4 +1,4 @@
 ---
-title: Thoughts Index
+title: Thoughts
 ---
 A collection of my thoughts.
