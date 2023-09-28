@@ -1,3 +1,3 @@
 ---
-name: PHYS 3
+title: PHYS 3
 ---
