@@ -80,10 +80,10 @@ $$
 ## Alg. Analysis
 
 **Model of Computation:**
-Basic arithmetic operations in O(1) time
-Infinite memory & O(1) time to access unit of memory
-All analysis in Big O
-Big O will be for a specific algorithm, NOT for the problem.
+- Basic arithmetic operations in O(1) time
+- Infinite memory & O(1) time to access unit of memory
+- All analysis in Big O
+- Big O will be for a specific algorithm, NOT for the problem.
 ### Max Substring Sum
 
 Input: Array $A = [a_1 ... a_n]$ of $n$ integers
