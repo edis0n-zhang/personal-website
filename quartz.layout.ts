@@ -22,7 +22,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Notes",
+        limit: 5,
+        filter: (f) =>
+          !(f.slug!.startsWith("Notes/")),
+      }),
+    ),
   ],
   right: [
     Component.DesktopOnly(Component.Explorer({
