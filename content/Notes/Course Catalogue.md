@@ -1,3 +1,6 @@
+---
+date: 10-04-23
+---
 Open on any of the internal course links to access an index of all of the notes for each course as well as a summary of the topics each note contains.
 # UCSB F23
 ---
