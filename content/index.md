@@ -9,3 +9,5 @@ Currently I'm deeply interested in deep learning and web development.
 Some pages you may be interested in:
 - [[Resume]]: Elaborating on my experiences and projects beyond what can fit in a traditional resume and providing additional context.
 - [[Course Catalogue]]: An online public resource containing notes and resources from classes I have taken. Partly created for myself as a way to [learn in public](https://www.swyx.io/learn-in-public). 
+
+If you need to contact me feel free to connect with me at my [LinkedIn](https://www.linkedin.com/in/edison--zhang/)!
