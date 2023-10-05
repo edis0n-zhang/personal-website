@@ -54,10 +54,8 @@ The angle between the two vectors is between 0 and x.
 
 Recall:
 $$
-\begin{array}
 \vec{v} = <v_1, v_2, v_3>, \ \lambda \in \mathbb{R}
 \\ \lambda \cdot \vec{v} = <\lambda v_1, \lambda v_2, \lambda v_3>
-\end{array}
 $$
 
 ### Scalar Properties

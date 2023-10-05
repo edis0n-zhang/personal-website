@@ -9,7 +9,7 @@ date: 2023-10-03
 
 ## Wave Equation
 
-Periodic Wave Formula:
+**Periodic Wave Formula (Positive x-direction):**
 $$
 y(x, t) = A \cos{[k(x - vt)]}
 $$
@@ -28,6 +28,10 @@ y = A\cos{[kx - 2\pi f t]} = A \cos{(kx - \omega t)}
 $$
 This is the most common form of the wave formula.
 
+**Periodic Wave Formula (Negative x-direction):**
+$$
+y(x,t) = A \cos{(kx + \omega t)}
+$$
 ## Wave Speed v
 
 ![[Phase Velocity Drawing.png]]
