@@ -13,6 +13,10 @@ date: 2023-10-03
 $$
 y(x, t) = A \cos{[k(x - vt)]}
 $$
+**Periodic Wave Formula (Negative x-direction):**
+$$
+y(x,t) = A \cos{(kx + \omega t)}
+$$
 - The displacement y of a particle is dependent on the position and time.
 - Definitions:
 $$
@@ -27,11 +31,6 @@ $$
 y = A\cos{[kx - 2\pi f t]} = A \cos{(kx - \omega t)}
 $$
 This is the most common form of the wave formula.
-
-**Periodic Wave Formula (Negative x-direction):**
-$$
-y(x,t) = A \cos{(kx + \omega t)}
-$$
 ## Wave Speed v
 
 ![[Phase Velocity Drawing.png]]

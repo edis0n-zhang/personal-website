@@ -109,8 +109,8 @@ $$
 Example:
 $$
 \begin{align*}
-\vec{v} \cdot \vec{w} &= <-10, 5, 0>
-\\ \vec{w} \cdot \vec{v} &= <10, -5, 0>
+\vec{v} \times \vec{w} &= <-10, 5, 0>
+\\ \vec{w} \times \vec{v} &= <10, -5, 0>
 \end{align*}
 $$
 2. $\vec{v} \times \vec{v} = 0$
