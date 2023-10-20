@@ -17,7 +17,7 @@ Sep. 2022 – June 2025
 **Engineer Co-Op** at *Wolfspeed*  \
 September 2023 – Present
 
-- Developing SQL parser (Python) to automate SQL stored procedure documentation
+- Developing SQL stored procedure documentation generator application using a Python based SQL Parser
 - Assisting in ETL process for Oracle SQL database migration for internal app back-end by proofreading queries
 
 **Engineer Intern** at *Wolfspeed* \
@@ -63,4 +63,4 @@ Developer Tools: Git, Visual Studio Code, Power BI, Microsoft SQL Server Managem
 # Activities
 ---
 
-Regents Scholar’s Association, College Of Engineering Honors, Data Science Club, Coders SB, UCSB Esports (Valorant)
+Regents Scholar’s Association, College Of Engineering Honors, Data Science Club, Coders SB
