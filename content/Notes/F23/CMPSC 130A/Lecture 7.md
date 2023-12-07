@@ -100,7 +100,7 @@ Krushkal (G,w):
 
 **Proof of correctness :** \
 Cut property:\
-Krushkal's $\textemdash$ Why is it correct?\
+Krushkal's — Why is it correct?\
 Proof of induction on |X|\
 Partial MST X on explored set S\
 Base Case: X is empty, S = {s},\
