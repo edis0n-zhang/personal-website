@@ -2,7 +2,7 @@
 date: 2023-10-30
 ---
 # SAT
-**Input:** Given f in CNF with n variables and m clauses
+**Input:** Given f in CNF with n variables and m clauses \
 **Output:** Assignment satisfying f if one exists and no if no SAT exists.
 
 ## 2-SAT
