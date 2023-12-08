@@ -18,6 +18,4 @@ These ideas have been brewing in my for a long time. I've had an inner conflict 
 
 Much of my thoughts in here have been inspired by the video essay [*How Can We Bear to Throw Anything Away?*](https://youtu.be/ukJ_UA-JS5o?si=V3ViXqRGkZ5CpMKy)  by Jacob Geller. In it, he explores various thoughts on the value of our information and data. If this piece interests you in any way, I implore you to watch it, he explores and combines various mediums and thoughts in a way that I only wish I could.
 
-I would also like to direct your attention to a a different reason to fear our history being lost, one that Rich Harris, the creator of Svelte, eloquently outlines in [this talk](https://youtu.be/uXCipjbcQfM?si=MCdpUC3RS-_nbiU6&t=407):
-
-> So much of modern culture is mediated through ephemeral digital platforms that there is a real possibility that future historians will have an easier time answering the question, "What was it like to live through the space race", than answering the question, "What was it like to live through the AI revolution".
+I would also like to direct your attention to a a different reason to fear our history being lost, one that Rich Harris, the creator of Svelte, eloquently outlines in [this talk](https://youtu.be/uXCipjbcQfM?si=MCdpUC3RS-_nbiU6&t=407).
