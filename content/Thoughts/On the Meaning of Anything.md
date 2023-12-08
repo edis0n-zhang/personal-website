@@ -1,9 +1,7 @@
 ---
 date: 2023-12-07
 ---
-Lately, I haven't been able to stop posing myself the question:
-
-> **What grants something meaning?**
+Lately, I haven't been able to stop posing myself the question: **What grants something meaning?**
 
 After thorough thought, my conclusion has been that the act of recording something, is to grant it value. To grant an ethereal thought a corporeal form is to shout at the indifferent world, "I believe this to be valuable, that this should be remembered for as long as it is given form." Perhaps this is why we place so much importance on being recorded, why heroes make a mark on history, why rulers create enormous and elaborate tombs, and why we denote texts that have stood the test of time as holy. 
 
