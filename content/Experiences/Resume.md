@@ -31,7 +31,7 @@ June 2023 – September 2023
 # Projects
 ---
 
-**Facere** | Svelte, Tailwind CSS, Figma, Express.js, SQLite* \
+**Hearth** | Svelte, Tailwind CSS, Figma, Express.js, SQLite* \
 October 2023    
 
 - Built AI Website Generator with user social connectivity
