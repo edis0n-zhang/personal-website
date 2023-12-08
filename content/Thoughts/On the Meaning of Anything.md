@@ -19,4 +19,4 @@ My goal with isn't to dissuade any reader to post or share their thoughts but ra
 
 This piece is heavily inspired by the video essay [*How Can We Bear to Throw Anything Away?*](https://youtu.be/ukJ_UA-JS5o?si=V3ViXqRGkZ5CpMKy)  by Jacob Geller. In it, he explores various thoughts on the value of our information and data. If any of the ideas interests you, I implore you to watch it, he explores and combines various mediums and thoughts in a way that I only wish I could.
 
-I would also like to direct your attention to a a different reason to fear our history being lost, one that Rich Harris, the creator of Svelte, eloquently outlines in [this talk](https://youtu.be/uXCipjbcQfM?si=MCdpUC3RS-_nbiU6&t=407).
+I would also like to direct your attention to a different reason to fear our history being lost, one that Rich Harris, the creator of Svelte, eloquently outlines in [this talk](https://youtu.be/uXCipjbcQfM?si=MCdpUC3RS-_nbiU6&t=407).
