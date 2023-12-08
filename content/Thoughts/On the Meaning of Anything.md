@@ -5,7 +5,7 @@ Lately, I haven't been able to stop posing myself the question:
 
 > **What grants something meaning?**
 
-My conclusion has been that the act of recording something, is to grant it value. To grant an ethereal thought a corporeal form is to shout at the indifferent world, "I believe this to be valuable, that this should be remembered for as long as it is given form." Perhaps this is why we place so much importance on being recorded, why heroes make a mark on history, why rulers create enormous and elaborate tombs, and why we denote texts that have stood the test of time as holy. 
+After thorough thought, my conclusion has been that the act of recording something, is to grant it value. To grant an ethereal thought a corporeal form is to shout at the indifferent world, "I believe this to be valuable, that this should be remembered for as long as it is given form." Perhaps this is why we place so much importance on being recorded, why heroes make a mark on history, why rulers create enormous and elaborate tombs, and why we denote texts that have stood the test of time as holy. 
 
 Yet in this digital age every thought must be posted, every event must be video-taped, and every sight must be photographed. Every person has a megaphone, and we all shout at the top of our lungs, trying to get the attention we oh so desire, a proof of our own worth. I worry that much like in the short story [*On Exactitude in Science*](https://kwarc.info/teaching/TDM/Borges.pdf) by John Luis Borges, the internet will end up like the map of the Empire. Our over enthusiasm for hoarding information will ironically lead to the information becoming impossible to parse. Amongst the cacophony of voices, it becomes impossible to hear any individual.
 
