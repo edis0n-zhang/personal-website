@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "LinkedIn": "https://www.linkedin.com/in/edison--zhang/",
-      "GitHub": "https://github.com/edis0n-zhang",
+      LinkedIn: "https://www.linkedin.com/in/edison--zhang/",
+      GitHub: "https://github.com/edis0n-zhang",
     },
   }),
 }
@@ -21,27 +21,29 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
         limit: 5,
-        filter: (f) =>
-          !(f.slug!.startsWith("Notes/")),
+        filter: (f) => !f.slug!.startsWith("Notes/"),
       }),
     ),
   ],
   right: [
-    Component.DesktopOnly(Component.Explorer({
-      title: "Explorer",
-      folderDefaultState: "collapsed",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["home"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })),
-    Component.DesktopOnly(Component.Graph()), 
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Explorer",
+        folderDefaultState: "collapsed",
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["home"])
+          return !omit.has(node.name.toLowerCase())
+        },
+      }),
+    ),
+    Component.DesktopOnly(Component.Graph()),
+    Component.MobileOnly(Component.RecentNotes()),
     Component.Backlinks(),
   ],
 }
