@@ -1,3 +1,6 @@
+
+Notes from when I took [UCSB's CMPSC 190i : Introduction to Deep Learning](https://github.com/UCSB-Shiyu-Teaching/CS190I) with Professor Shiyu Chang.
+****
 [[Notes/F23/CMPSC 190I/Lecture 1|Lecture 1]]
 - LLM's
 - Diffusion Model

@@ -46,4 +46,4 @@ I'm especially proud of the growth of our team members. Before the hackathon our
 It was a long and grueling 36 hours, but I couldn't be happier with what we built and learned and my team members who toughed it out and persevered to ship our product despite all of the challenges.
 
 ### Looking into the Future
-We plan on continuing to develop Gaucho Genie: increasing it knowledgebase, deploying it on a production website, and adding new features.
+We plan on continuing to develop Gaucho Genie: increasing it knowledgebase, deploying it on a production website, improving UI (homepage has some clarity issues), and adding new features.
